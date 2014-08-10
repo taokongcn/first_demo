@@ -1,4 +1,3 @@
-<%- partial('_partial/head') %>
 <html>
 <body>
   <div id="container">
